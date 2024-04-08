@@ -4,7 +4,7 @@ import Header from "./Components/Header";
 import Home from "./Components/Home";
 import ListPages from "./Components/ListPage";
 import { UserContextProvider } from "./Components/context/usercontext";
-import Footer from "./Components/Footer";
+
 
 function App() {
   return (
